@@ -1,0 +1,9 @@
+git init
+git status
+git add <file name to stage>
+git rm --cached <file name to unstage>
+git commit -m "your message"
+git commit -am "a is used to add modified files and commit at the same time where m is message"
+git show-ref
+
+Repo address httpsgithub.comdesertsunny29xTestGit.git
